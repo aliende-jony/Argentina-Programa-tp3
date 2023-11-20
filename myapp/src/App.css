@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ecommerce{
+    padding:3rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    align-items: center;
+}
+.bienvenida{
+    font-size: 1.5rem;
+    padding:5rem;
+    display: flex;
+    justify-content: center;
+}
+.product{
+    background-color: cadetblue;
+    border: 1px solid black;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+.product .mot{
+    width: 30rem;
+    height: 30rem;
+    padding: .2rem;
+}
+
+
+

@@ -1,0 +1,4 @@
+.Descripcion{
+    display: flex;
+    flex-direction: column;
+}
